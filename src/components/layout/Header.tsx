@@ -10,7 +10,7 @@ import Container from "./Container";
 const nav = [
   {
     href: "/services",
-    text: "services",
+    text: "Services",
   },
   {
     href: "/case-studies",
